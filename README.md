@@ -6,7 +6,7 @@ Cross-functional AI training program for enterprise teams. Covers 9 business fun
 
 | # | Module | Focus Area |
 |---|--------|------------|
-| [00](00-engineering-quiz.md) | Engineering Quiz | Engineering AI knowledge check |
+| [00](00-engineering.md) | Engineering | AI-assisted development — Cursor, Copilot, agent mode, code review, prompt labs |
 | [01](01-product-management.md) | Product Management | Roadmaps, PRDs, competitive analysis, user stories |
 | [02](02-sales.md) | Sales | Prospecting, proposals, objection handling, forecasting |
 | [03](03-legal.md) | Legal | Contract review, research, compliance, risk assessment |
@@ -20,6 +20,7 @@ Cross-functional AI training program for enterprise teams. Covers 9 business fun
 
 | Resource | Description |
 |----------|-------------|
+| [Engineering Quiz](00-engineering-quiz.md) | 31-question engineering assessment with answer key |
 | [Quiz Bank](09-quiz-bank-all-functions.md) | 71 questions across all functions with answer keys |
 | [Academy Handoff](10-academy-handoff.md) | Implementation guide for L&D teams |
 
